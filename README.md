@@ -3,8 +3,8 @@ Welcome to my Data Analytics/coding portfolio! Check out my table of contents wh
 
 ## Table of Contents
 
+UPDATES COMING SOON
 
-Here are some ideas to get you started:
 ## About Me
 - 🌱 I’m currently learning SQL
 
