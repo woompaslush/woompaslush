@@ -13,6 +13,6 @@ SQL Projects
 - 🌱 I’m currently learning SQL
 
 - ⚡ Fun fact: 
-      I have an undergrad in Criminal Justice. Looking to work as a crime analyst but am also willing to work in the data analytics sector for business pr policy analytics. 
+      I have an undergrad in Criminal Justice. Looking to work as a crime analyst pr OSINT Analyst but am also willing to work in the data analytics sector for business pr policy analytics. 
     
 
