@@ -3,7 +3,11 @@ Welcome to my OSINT/Data Analytics portfolio! Check out my table of contents whi
 
 ## Table of Contents
 
-UPDATES COMING SOON
+OSINT Projects
+https://github.com/woompaslush/OSINT-Exercise-025-Graffiti-Image-and-Building-Location
+
+SQL Projects
+
 
 ## About Me
 - 🌱 I’m currently learning SQL
