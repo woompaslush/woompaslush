@@ -4,7 +4,7 @@ Welcome to my OSINT/Data Analytics portfolio! Check out my table of contents whi
 ## Table of Contents
 
 OSINT Projects
-https://github.com/woompaslush/OSINT-Exercise-025-Graffiti-Image-and-Building-Location
+https://github.com/woompaslush/OSINT-Exercise-025-Graffiti-Image-and-Building-Location/blob/main/README.md
 
 SQL Projects
 
