@@ -7,7 +7,7 @@ OSINT Projects
 https://github.com/woompaslush/OSINT-Exercise-025-Graffiti-Image-and-Building-Location/blob/main/README.md
 
 SQL Projects
-
+https://github.com/woompaslush/SQL-Data-of-Motor-Vehicle-Thefts-in-New-Zealand-
 
 ## About Me
 - 🌱 I’m currently learning SQL
